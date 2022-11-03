@@ -1,6 +1,8 @@
 # tempatwisata2
 
-A new Flutter project.
+Nama : Muhammad Iqbal Fadhillah 
+Kelas : IK2A
+NIM : 3.34.21.0.16
 
 ## Getting Started
 
